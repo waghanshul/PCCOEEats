@@ -1,2 +1,2 @@
 # PCCOEEats
-A step towards PCCOE's Canteen Automation
+PCCOE's Canteen Automation
